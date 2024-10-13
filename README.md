@@ -1,0 +1,1 @@
+Developed a deep learning model using Convolutional Neural Networks (CNN) and transfer learning to classify celebrity faces with 99% accuracy. This model can be used in gallery applications and security systems for facial recognition.
